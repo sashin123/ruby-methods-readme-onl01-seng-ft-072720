@@ -148,7 +148,7 @@ end # Method Closing
 That first line, `def greeting`, is called the method signature, it defines the
 basic properties of the method including the name of the method, `greeting`.
 
-Once you 'open' a method definition with the `def` keyword, all subsequent lines
+Once you 'open' a method .definition with the `def` keyword, all subsequent lines
 in your program are considered the method's body, the actual procedure or code
 that your method will run every time it's called.
 
